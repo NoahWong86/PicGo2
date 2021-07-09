@@ -1,0 +1,2 @@
+# PicGo2
+free
